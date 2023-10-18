@@ -1,1 +1,10 @@
-
+<bugReport>
+  <number id="1">
+    <title>Basket functionality</title>
+    <description>No goods added to the basket</description>
+    <environment set="1">
+      <os>XXX</os>
+      <browser>Firefox</browser>
+    </environment>
+  </number>
+</bugReport>
