@@ -1,0 +1,9 @@
+<personalInformation>
+	<person id="1">
+		<lastName>Adilova</lastName>
+		<firstName>Nurgul</firstName>
+		<age>unknown</age>
+		<pets>false</pets>
+		<salary>3500</salary>
+	</person>
+<personalInformation>`
