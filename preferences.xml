@@ -1,0 +1,16 @@
+<myPreferences>
+	<TV>
+		<favFilm>Pride and prejudice</favFilm>
+		<favSerial>Bridgertons</favSerial>
+	</TV>
+	<Food>
+		<favSoup>Bortsch></favSoup>
+		<favFruit>Watermelon</favFruit>
+		<favDesert>Cake</favDesert>
+	</Food>
+	<Sightseeing>
+		<favCity>New York</favCity>
+		<favCountry>Netherlands</favCountry>
+		<favLanguage>English</favEnglish>
+	</Sightseeing>
+</myPreferences>
